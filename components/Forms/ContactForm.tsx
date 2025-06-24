@@ -33,7 +33,7 @@ export default function ContactForm(props: Props) {
   const [submitted, setSubmitted] = useState(false);
   const { loading, data: submittedData, error, submitForm } = useForm();
 
-  const [recaptcha, setRecaptcha] = useState<null | string>(null);
+  const [recaptcha, setRecaptcha] = useState<string | null>(null); // Fixed type
   const [recaptchaError, setRecaptchaError] = useState(false);
 
   const { validationError, onvalidReset, handleFormOnInvalidEvent } =
@@ -101,10 +101,11 @@ export default function ContactForm(props: Props) {
                   justifyContent="space-between"
                 >
                   <Box component="div">
-                    <ReCAPTCHA
-                      sitekey={process.env.NEXT_PUBLIC_RECAPTCHA_SITE_KEY ?? ''}
-                      onChange={(v) => setRecaptcha(v)}
-                    />
+                   {/* <ReCAPTCHA
+  sitekey={process.env.NEXT_PUBLIC_RECAPTCHA_SITE_KEY ?? ''}
+  onChange={(v) => setRecaptcha(v)}
+/> */}
+
                     <AnimationExpandVertical isExpanded={!!recaptchaError}>
                       <Typography pt={4} variant="body2" color={strawberryRed}>
                         Please complete the ReCAPTCHA.
