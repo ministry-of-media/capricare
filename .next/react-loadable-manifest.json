@@ -1,0 +1,234 @@
+{
+  "components/Video.tsx -> react-player": {
+    "id": "components/Video.tsx -> react-player",
+    "files": [
+      "static/chunks/_pages-dir-browser_node_modules_react-player_lib_index_js.js"
+    ]
+  },
+  "node_modules/@react-three/drei/core/VideoTexture.js -> hls.js": {
+    "id": "node_modules/@react-three/drei/core/VideoTexture.js -> hls.js",
+    "files": []
+  },
+  "node_modules/@react-three/drei/web/FaceLandmarker.js -> @mediapipe/tasks-vision": {
+    "id": "node_modules/@react-three/drei/web/FaceLandmarker.js -> @mediapipe/tasks-vision",
+    "files": [
+      "static/chunks/_pages-dir-browser_node_modules_mediapipe_tasks-vision_vision_bundle_mjs.js"
+    ]
+  },
+  "node_modules/react-player/lib/ReactPlayer.js -> ./Preview": {
+    "id": "node_modules/react-player/lib/ReactPlayer.js -> ./Preview",
+    "files": [
+      "static/chunks/reactPlayerPreview.js"
+    ]
+  },
+  "node_modules/react-player/lib/players/index.js -> ./DailyMotion": {
+    "id": "node_modules/react-player/lib/players/index.js -> ./DailyMotion",
+    "files": [
+      "static/chunks/reactPlayerDailyMotion.js"
+    ]
+  },
+  "node_modules/react-player/lib/players/index.js -> ./Facebook": {
+    "id": "node_modules/react-player/lib/players/index.js -> ./Facebook",
+    "files": [
+      "static/chunks/reactPlayerFacebook.js"
+    ]
+  },
+  "node_modules/react-player/lib/players/index.js -> ./FilePlayer": {
+    "id": "node_modules/react-player/lib/players/index.js -> ./FilePlayer",
+    "files": [
+      "static/chunks/reactPlayerFilePlayer.js"
+    ]
+  },
+  "node_modules/react-player/lib/players/index.js -> ./Kaltura": {
+    "id": "node_modules/react-player/lib/players/index.js -> ./Kaltura",
+    "files": [
+      "static/chunks/reactPlayerKaltura.js"
+    ]
+  },
+  "node_modules/react-player/lib/players/index.js -> ./Mixcloud": {
+    "id": "node_modules/react-player/lib/players/index.js -> ./Mixcloud",
+    "files": [
+      "static/chunks/reactPlayerMixcloud.js"
+    ]
+  },
+  "node_modules/react-player/lib/players/index.js -> ./Mux": {
+    "id": "node_modules/react-player/lib/players/index.js -> ./Mux",
+    "files": [
+      "static/chunks/reactPlayerMux.js"
+    ]
+  },
+  "node_modules/react-player/lib/players/index.js -> ./SoundCloud": {
+    "id": "node_modules/react-player/lib/players/index.js -> ./SoundCloud",
+    "files": [
+      "static/chunks/reactPlayerSoundCloud.js"
+    ]
+  },
+  "node_modules/react-player/lib/players/index.js -> ./Streamable": {
+    "id": "node_modules/react-player/lib/players/index.js -> ./Streamable",
+    "files": [
+      "static/chunks/reactPlayerStreamable.js"
+    ]
+  },
+  "node_modules/react-player/lib/players/index.js -> ./Twitch": {
+    "id": "node_modules/react-player/lib/players/index.js -> ./Twitch",
+    "files": [
+      "static/chunks/reactPlayerTwitch.js"
+    ]
+  },
+  "node_modules/react-player/lib/players/index.js -> ./Vidyard": {
+    "id": "node_modules/react-player/lib/players/index.js -> ./Vidyard",
+    "files": [
+      "static/chunks/reactPlayerVidyard.js"
+    ]
+  },
+  "node_modules/react-player/lib/players/index.js -> ./Vimeo": {
+    "id": "node_modules/react-player/lib/players/index.js -> ./Vimeo",
+    "files": [
+      "static/chunks/reactPlayerVimeo.js"
+    ]
+  },
+  "node_modules/react-player/lib/players/index.js -> ./Wistia": {
+    "id": "node_modules/react-player/lib/players/index.js -> ./Wistia",
+    "files": [
+      "static/chunks/reactPlayerWistia.js"
+    ]
+  },
+  "node_modules/react-player/lib/players/index.js -> ./YouTube": {
+    "id": "node_modules/react-player/lib/players/index.js -> ./YouTube",
+    "files": [
+      "static/chunks/reactPlayerYouTube.js"
+    ]
+  },
+  "pages/_app.tsx -> ../components/AppWrapper": {
+    "id": "pages/_app.tsx -> ../components/AppWrapper",
+    "files": [
+      "static/chunks/_pages-dir-browser_components_AppWrapper_tsx.js"
+    ]
+  },
+  "pages/_app.tsx -> ../components/Footer/Footer": {
+    "id": "pages/_app.tsx -> ../components/Footer/Footer",
+    "files": [
+      "static/chunks/_pages-dir-browser_components_Footer_Footer_tsx.js"
+    ]
+  },
+  "pages/_app.tsx -> ../components/Navigation/NavBar": {
+    "id": "pages/_app.tsx -> ../components/Navigation/NavBar",
+    "files": [
+      "static/chunks/_pages-dir-browser_components_Navigation_NavBar_tsx.js"
+    ]
+  },
+  "pages/_app.tsx -> ../components/Sections/InstagramSection": {
+    "id": "pages/_app.tsx -> ../components/Sections/InstagramSection",
+    "files": [
+      "static/chunks/_pages-dir-browser_components_Sections_InstagramSection_tsx.js"
+    ]
+  },
+  "pages/index.tsx -> ../components/MetaData": {
+    "id": "pages/index.tsx -> ../components/MetaData",
+    "files": [
+      "static/chunks/_pages-dir-browser_components_MetaData_tsx-_717e0.js"
+    ]
+  },
+  "pages/index.tsx -> ../components/R3F/HomePageScene": {
+    "id": "pages/index.tsx -> ../components/R3F/HomePageScene",
+    "files": [
+      "static/chunks/_pages-dir-browser_components_R3F_HomePageScene_tsx.js"
+    ]
+  },
+  "pages/index.tsx -> ../components/Sections/BenefitsSection": {
+    "id": "pages/index.tsx -> ../components/Sections/BenefitsSection",
+    "files": [
+      "static/chunks/_pages-dir-browser_components_Sections_BenefitsSection_tsx-_1ee10.js"
+    ]
+  },
+  "pages/index.tsx -> ../components/Sections/BlogPostsSection": {
+    "id": "pages/index.tsx -> ../components/Sections/BlogPostsSection",
+    "files": [
+      "static/chunks/_pages-dir-browser_components_Sections_BlogPostsSection_tsx-_fd6d0.js"
+    ]
+  },
+  "pages/index.tsx -> ../components/Sections/CTASection": {
+    "id": "pages/index.tsx -> ../components/Sections/CTASection",
+    "files": [
+      "static/chunks/_pages-dir-browser_components_Sections_CTASection_tsx-_0ac20.js"
+    ]
+  },
+  "pages/index.tsx -> ../components/Sections/MainContentSection": {
+    "id": "pages/index.tsx -> ../components/Sections/MainContentSection",
+    "files": [
+      "static/chunks/_pages-dir-browser_components_Sections_MainContentSection_tsx.js"
+    ]
+  },
+  "pages/index.tsx -> ../components/Sections/MediaContentSection": {
+    "id": "pages/index.tsx -> ../components/Sections/MediaContentSection",
+    "files": [
+      "static/chunks/_pages-dir-browser_components_Sections_MediaContentSection_tsx.js"
+    ]
+  },
+  "pages/index.tsx -> ../components/Sections/ProductsSection": {
+    "id": "pages/index.tsx -> ../components/Sections/ProductsSection",
+    "files": [
+      "static/chunks/_pages-dir-browser_components_Sections_ProductsSection_tsx.js"
+    ]
+  },
+  "pages/index.tsx -> ../components/Sections/SEOSection": {
+    "id": "pages/index.tsx -> ../components/Sections/SEOSection",
+    "files": [
+      "static/chunks/_pages-dir-browser_components_Sections_SEOSection_tsx.js"
+    ]
+  },
+  "pages/index.tsx -> ../components/Sections/TestimonialsSection": {
+    "id": "pages/index.tsx -> ../components/Sections/TestimonialsSection",
+    "files": [
+      "static/chunks/_pages-dir-browser_components_Sections_TestimonialsSection_tsx-_fad30.js"
+    ]
+  },
+  "pages/our-products/[inner].tsx -> ../../components/AnimatedBackgroundWrapper": {
+    "id": "pages/our-products/[inner].tsx -> ../../components/AnimatedBackgroundWrapper",
+    "files": [
+      "static/chunks/_pages-dir-browser_components_AnimatedBackgroundWrapper_tsx.js"
+    ]
+  },
+  "pages/our-products/[inner].tsx -> ../../components/MetaData": {
+    "id": "pages/our-products/[inner].tsx -> ../../components/MetaData",
+    "files": [
+      "static/chunks/_pages-dir-browser_components_MetaData_tsx-_717e1.js"
+    ]
+  },
+  "pages/our-products/[inner].tsx -> ../../components/Sections/BenefitsSection": {
+    "id": "pages/our-products/[inner].tsx -> ../../components/Sections/BenefitsSection",
+    "files": [
+      "static/chunks/_pages-dir-browser_components_Sections_BenefitsSection_tsx-_1ee11.js"
+    ]
+  },
+  "pages/our-products/[inner].tsx -> ../../components/Sections/BlogPostsSection": {
+    "id": "pages/our-products/[inner].tsx -> ../../components/Sections/BlogPostsSection",
+    "files": [
+      "static/chunks/_pages-dir-browser_components_Sections_BlogPostsSection_tsx-_fd6d1.js"
+    ]
+  },
+  "pages/our-products/[inner].tsx -> ../../components/Sections/CTASection": {
+    "id": "pages/our-products/[inner].tsx -> ../../components/Sections/CTASection",
+    "files": [
+      "static/chunks/_pages-dir-browser_components_Sections_CTASection_tsx-_0ac21.js"
+    ]
+  },
+  "pages/our-products/[inner].tsx -> ../../components/Sections/FaqWithSearchSection": {
+    "id": "pages/our-products/[inner].tsx -> ../../components/Sections/FaqWithSearchSection",
+    "files": [
+      "static/chunks/_pages-dir-browser_components_Sections_FaqWithSearchSection_tsx.js"
+    ]
+  },
+  "pages/our-products/[inner].tsx -> ../../components/Sections/OurProductsInner/ProductDetailsSection": {
+    "id": "pages/our-products/[inner].tsx -> ../../components/Sections/OurProductsInner/ProductDetailsSection",
+    "files": [
+      "static/chunks/_pages-dir-browser_components_Sections_OurProductsInner_ProductDetailsSection_tsx.js"
+    ]
+  },
+  "pages/our-products/[inner].tsx -> ../../components/Sections/TestimonialsSection": {
+    "id": "pages/our-products/[inner].tsx -> ../../components/Sections/TestimonialsSection",
+    "files": [
+      "static/chunks/_pages-dir-browser_components_Sections_TestimonialsSection_tsx-_fad31.js"
+    ]
+  }
+}
